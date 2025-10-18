@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Tue Sep  2 09:28:21 2025
+# Process ID: 260
+# Current directory: D:/vivado/Decodificador7seg
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3140 D:\vivado\Decodificador7seg\Decodificador7seg.xpr
+# Log file: D:/vivado/Decodificador7seg/vivado.log
+# Journal file: D:/vivado/Decodificador7seg\vivado.jou
+# Running On: LENOVO8300, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 4, Host memory: 17011 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/vivado/Decodificador7seg/Decodificador7seg.xpr
+update_compile_order -fileset sources_1

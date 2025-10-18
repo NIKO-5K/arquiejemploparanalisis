@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../CLK.srcs/sources_1/new/CLK.vhd" \
+
+# Do not sort compile order
+nosort

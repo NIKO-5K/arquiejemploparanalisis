@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Tue Sep  2 10:17:43 2025
+# Process ID: 7712
+# Current directory: D:/vivado/sum4b_dec/sum4b_dec.runs/synth_1
+# Command line: vivado.exe -log sum4bdec.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sum4bdec.tcl
+# Log file: D:/vivado/sum4b_dec/sum4b_dec.runs/synth_1/sum4bdec.vds
+# Journal file: D:/vivado/sum4b_dec/sum4b_dec.runs/synth_1\vivado.jou
+# Running On: LENOVO8300, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 4, Host memory: 17011 MB
+#-----------------------------------------------------------
+source sum4bdec.tcl -notrace

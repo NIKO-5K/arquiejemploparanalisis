@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sat Aug 23 08:13:16 2025
+# Process ID: 7212
+# Current directory: D:/vivado/sumador1b
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2356 D:\vivado\sumador1b\sumador1b.xpr
+# Log file: D:/vivado/sumador1b/vivado.log
+# Journal file: D:/vivado/sumador1b\vivado.jou
+# Running On: LENOVO8305, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 4, Host memory: 17010 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/vivado/sumador1b/sumador1b.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project D:/vivado/multiplexor4_1/multiplexor4_1.xpr
+file mkdir D:/vivado/multiplexor4_1/multiplexor4_1.srcs/sources_1/new
+close [ open D:/vivado/multiplexor4_1/multiplexor4_1.srcs/sources_1/new/mux4_1.vhd w ]
+add_files D:/vivado/multiplexor4_1/multiplexor4_1.srcs/sources_1/new/mux4_1.vhd
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+synth_design -rtl -rtl_skip_mlo -name rtl_1

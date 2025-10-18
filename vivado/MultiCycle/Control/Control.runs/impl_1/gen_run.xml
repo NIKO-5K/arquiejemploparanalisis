@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1760795987">
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="CONTROL_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="CONTROL_routed.rqs"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="RDI-RDI" Name="CONTROL.vdi"/>
+  <File Type="BG-DRC" Name="CONTROL.drc"/>
+  <File Type="BG-BGN" Name="CONTROL.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="CONTROL.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="CONTROL.ltx"/>
+  <File Type="PL-LTX-FILE" Name="CONTROL_pld.ltx"/>
+  <File Type="BOOT-LTX-FILE" Name="CONTROL_boot.ltx"/>
+  <File Type="LTX-FILE" Name="CONTROL.ltx"/>
+  <File Type="PL-BIF-FILE" Name="CONTROL_pld.bif"/>
+  <File Type="BOOT-BIF-FILE" Name="CONTROL_boot.bif"/>
+  <File Type="BIF-FILE" Name="CONTROL.bif"/>
+  <File Type="MMI-FILE" Name="CONTROL.mmi"/>
+  <File Type="RBD_FILE" Name="CONTROL.rbd"/>
+  <File Type="NPI_FILE" Name="CONTROL.npi"/>
+  <File Type="PL_UNMASK_RCDO_FILE" Name="CONTROL_pld_unmask.rcdo"/>
+  <File Type="PL_UNMASK_MARKER_RCDO_FILE" Name="CONTROL_pld_unmask_markers.rcdo"/>
+  <File Type="PL_MASK_RCDO_FILE" Name="CONTROL_pld_mask.rcdo"/>
+  <File Type="PL_MARKER_RCDO_FILE" Name="CONTROL_pld_markers.rcdo"/>
+  <File Type="PL-CLEAR-RCDO-FILE" Name="CONTROL_pld_clear.rcdo"/>
+  <File Type="PL-RCDO-FILE" Name="CONTROL_pld.rcdo"/>
+  <File Type="PL_UNMASK_RNPI_FILE" Name="CONTROL_pld_unmask.rnpi"/>
+  <File Type="PL_SHUTDOWN_RNPI_FILE" Name="CONTROL_pld_shutdown.rnpi"/>
+  <File Type="PL_MASK_RNPI_FILE" Name="CONTROL_pld_mask.rnpi"/>
+  <File Type="PL_MARKER_RNPI_FILE" Name="CONTROL_pld_markers.rnpi"/>
+  <File Type="PL_RNPI_FILE" Name="CONTROL_pld.rnpi"/>
+  <File Type="BOOT_MARKER_RNPI_FILE" Name="CONTROL_boot_markers.rnpi"/>
+  <File Type="PA-TCL" Name="CONTROL.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="CONTROL_bus_skew_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="CONTROL_reports.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="CONTROL_bus_skew_routed.rpx"/>
+  <File Type="INIT-TIMING" Name="CONTROL_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="CONTROL_opt.dcp"/>
+  <File Type="OPT-DRC" Name="CONTROL_drc_opted.rpt"/>
+  <File Type="OPT-UTIL" Name="CONTROL_utilization_opted.rpt"/>
+  <File Type="PLACE-UTIL" Name="CONTROL_utilization_placed.rpt"/>
+  <File Type="OPT-UTIL-PB" Name="CONTROL_utilization_opted.pb"/>
+  <File Type="PLACE-CTRL" Name="CONTROL_control_sets_placed.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="CONTROL_methodology_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="CONTROL.hwdef"/>
+  <File Type="OPT-TIMING" Name="CONTROL_timing_summary_opted.rpt"/>
+  <File Type="OPT-RQA-PB" Name="CONTROL_rqa_opted.pb"/>
+  <File Type="PWROPT-DCP" Name="CONTROL_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="CONTROL_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="CONTROL_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="CONTROL_placed.dcp"/>
+  <File Type="PLACE-IO" Name="CONTROL_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="CONTROL_clock_utilization_placed.rpt"/>
+  <File Type="ROUTE-UTIL" Name="CONTROL_utilization_routed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="CONTROL_utilization_placed.pb"/>
+  <File Type="ROUTE-UTIL-PB" Name="CONTROL_utilization_routed.pb"/>
+  <File Type="PLACE-SIMILARITY" Name="CONTROL_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="CONTROL_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="CONTROL_timing_summary_placed.rpt"/>
+  <File Type="PLACE-RQA-PB" Name="CONTROL_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="CONTROL_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="CONTROL_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="CONTROL_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="CONTROL_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="CONTROL_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="CONTROL_routed_error.dcp"/>
+  <File Type="MARKER-RNPI-FILE" Name="CONTROL_markers.rnpi"/>
+  <File Type="ROUTE-DCP" Name="CONTROL_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="CONTROL_routed_bb.dcp"/>
+  <File Type="BOOT_RNPI_FILE" Name="CONTROL_boot.rnpi"/>
+  <File Type="ROUTE-DRC" Name="CONTROL_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="CONTROL_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="CONTROL_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="CONTROL_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="CONTROL_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="CONTROL_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="CONTROL_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="CONTROL_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="CONTROL_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="CONTROL_route_status.rpt"/>
+  <File Type="RCDO-FILE" Name="CONTROL.rcdo"/>
+  <File Type="ROUTE-STATUS-PB" Name="CONTROL_route_status.pb"/>
+  <File Type="MARKER-RCDO-FILE" Name="CONTROL_markers.rcdo"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="CONTROL_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="CONTROL_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="CONTROL_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="CONTROL_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="CONTROL_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="CONTROL_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-RQS-PB" Name="CONTROL_rqs_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="CONTROL_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="CONTROL_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="CONTROL_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="CONTROL_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="CONTROL_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="CONTROL_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="CONTROL_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="CONTROL_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="CONTROL.bit"/>
+  <File Type="PDI-FILE" Name="CONTROL.pdi"/>
+  <File Type="BG-BIN" Name="CONTROL.bin"/>
+  <File Type="CFI_FILE" Name="CONTROL.cfi"/>
+  <File Type="BITSTR-MSK" Name="CONTROL.msk"/>
+  <File Type="RNPI_FILE" Name="CONTROL.rnpi"/>
+  <File Type="BITSTR-RBT" Name="CONTROL.rbt"/>
+  <File Type="BITSTR-NKY" Name="CONTROL.nky"/>
+  <File Type="BITSTR-BMM" Name="CONTROL_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="CONTROL.mmi"/>
+  <File Type="BOOT-PDI-FILE" Name="CONTROL_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="CONTROL_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="CONTROL.rcfi"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Control.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="CONTROL"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
