@@ -3,16 +3,15 @@
 # SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
 # IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
 # SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
-# Start of session at: Sat Oct 11 07:32:19 2025
-# Process ID: 9072
+# Start of session at: Sat Oct 18 09:24:46 2025
+# Process ID: 8680
 # Current directory: D:/vivado/divisor_f_1s
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4808 D:\vivado\divisor_f_1s\divisor_f_1s.xpr
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2080 D:\vivado\divisor_f_1s\divisor_f_1s.xpr
 # Log file: D:/vivado/divisor_f_1s/vivado.log
 # Journal file: D:/vivado/divisor_f_1s\vivado.jou
-# Running On: LENOVO8305, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 4, Host memory: 17010 MB
+# Running On: LENOVO8302, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 4, Host memory: 17010 MB
 #-----------------------------------------------------------
 start_gui
-open_project D:/vivado/divisor_f_1s/divisor_f_1s.xpr
 WARNING: [Board 49-26] cannot add Board Part xilinx.com:kc705:part0:1.6 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/kc705/1.6/board.xml as part xc7k325tffg900-2 specified in board_part file is either invalid or not available
 WARNING: [Board 49-26] cannot add Board Part xilinx.com:kcu105:part0:1.6 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/kcu105/1.6/board.xml as part xcku040-ffva1156-2-e specified in board_part file is either invalid or not available
 WARNING: [Board 49-26] cannot add Board Part xilinx.com:kcu105:part0:1.7 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/kcu105/1.7/board.xml as part xcku040-ffva1156-2-e specified in board_part file is either invalid or not available
@@ -72,13 +71,20 @@ WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu216:part0:2.0 availab
 WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu216ld:part0:2.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu216ld/production/2.0/board.xml as part xczu59dr-ffvf1760-2-i specified in board_part file is either invalid or not available
 WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu670:part0:2.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670/2.0/board.xml as part xczu67dr-fsve1156-2-i specified in board_part file is either invalid or not available
 WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu670ld:part0:1.0 available at C:/Xilinx/Vivado/2023.1/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670ld/1.0/board.xml as part xczu57dr-fsve1156-2-i specified in board_part file is either invalid or not available
+open_project D:/vivado/divisor_f_1s/divisor_f_1s.xpr
+INFO: [Project 1-313] Project file moved from '/media/usb/vivado/divisor_f_1s' since last save.
 INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'D:/vivado/divisor_f_1s/divisor_f_1s.gen/sources_1'.
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name UseInlineHdlIP
+ERROR: [Project 1-4421] No val for DA Elab Attr 'CosimPdi'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'CosimPlatform'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'CosimElf'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'Dmv'
 Scanning sources...
 Finished scanning sources
+WARNING: [Project 1-231] Project 'divisor_f_1s.xpr' was created with a future version and may or may not perform reliably with this version of Vivado. It has been opened in read-only mode for the protection of unrecognized data. Use 'File | Save Project As...' if you wish to alter a copy of the project.
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2023.1/data/ip'.
-open_project: Time (s): cpu = 00:00:27 ; elapsed = 00:00:14 . Memory (MB): peak = 1499.988 ; gain = 417.148
+open_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 1311.641 ; gain = 99.172
+ERROR: [Common 17-39] 'open_project' failed due to earlier errors.
 update_compile_order -fileset sources_1
-exit
-INFO: [Common 17-206] Exiting Vivado at Sat Oct 11 08:15:19 2025...

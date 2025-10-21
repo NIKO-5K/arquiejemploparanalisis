@@ -3,13 +3,13 @@
 # SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
 # IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
 # SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
-# Start of session at: Sat Oct 11 07:32:19 2025
-# Process ID: 9072
+# Start of session at: Sat Oct 18 09:24:46 2025
+# Process ID: 8680
 # Current directory: D:/vivado/divisor_f_1s
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4808 D:\vivado\divisor_f_1s\divisor_f_1s.xpr
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2080 D:\vivado\divisor_f_1s\divisor_f_1s.xpr
 # Log file: D:/vivado/divisor_f_1s/vivado.log
 # Journal file: D:/vivado/divisor_f_1s\vivado.jou
-# Running On: LENOVO8305, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 4, Host memory: 17010 MB
+# Running On: LENOVO8302, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 4, Host memory: 17010 MB
 #-----------------------------------------------------------
 start_gui
 open_project D:/vivado/divisor_f_1s/divisor_f_1s.xpr
