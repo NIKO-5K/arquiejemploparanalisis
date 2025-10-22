@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Tue Oct 21 19:17:19 2025
+# Process ID: 18920
+# Current directory: C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5084 C:\Users\njimenezs\Documents\labor\analiziz\arquiejemploparanalisis\vivado\MultiCycle\Arquitectura.xpr
+# Log file: C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle/vivado.log
+# Journal file: C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle\vivado.jou
+# Running On: LENOVO8297, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 4, Host memory: 17011 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle/Arquitectura.xpr
+update_compile_order -fileset sources_1

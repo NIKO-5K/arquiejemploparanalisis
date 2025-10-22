@@ -3,14 +3,15 @@
 # SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
 # IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
 # SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
-# Start of session at: Tue Oct 14 10:43:38 2025
-# Process ID: 8676
-# Current directory: D:/vivado/MultiCycle/ALUOut
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12752 D:\vivado\MultiCycle\ALUOut\ALUOut.xpr
-# Log file: D:/vivado/MultiCycle/ALUOut/vivado.log
-# Journal file: D:/vivado/MultiCycle/ALUOut\vivado.jou
-# Running On: LENOVO8305, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 4, Host memory: 17010 MB
+# Start of session at: Tue Oct 21 19:11:17 2025
+# Process ID: 1340
+# Current directory: C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle/ALUOut
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19552 C:\Users\njimenezs\Documents\labor\analiziz\arquiejemploparanalisis\vivado\MultiCycle\ALUOut\ALUOut.xpr
+# Log file: C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle/ALUOut/vivado.log
+# Journal file: C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle/ALUOut\vivado.jou
+# Running On: LENOVO8297, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 4, Host memory: 17011 MB
 #-----------------------------------------------------------
 start_gui
-open_project D:/vivado/MultiCycle/ALUOut/ALUOut.xpr
+open_project C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle/ALUOut/ALUOut.xpr
 update_compile_order -fileset sources_1
+save_project_as project_1 C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle/ALUOut/ver_vivvado2023_1/project_1 -force

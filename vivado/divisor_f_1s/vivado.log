@@ -95,3 +95,5 @@ INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal pat
 Current project path is 'C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/divisor_f_1s/ver_vivado2023_1/project_1'
 WARNING: [IP_Flow 19-4995] The host OS only allows 260 characters in a normal path. The IP cache path is more than 80 characters. If you experience issues with IP caching, please consider changing the IP cache to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. 
 Current IP cache path is C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/divisor_f_1s/ver_vivado2023_1/project_1/project_1.cache/ip 
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Oct 21 19:19:52 2025...

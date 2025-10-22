@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Wed May 21 22:58:25 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Oct 17 18:18:10 2025
+# Process ID         : 57819
+# Current directory  : /media/usb/vivado/MultiCycle/ALU_Control/ALU_Control.runs/impl_1
+# Command line       : vivado -log ALU_Control.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ALU_Control.tcl -notrace
+# Log file           : /media/usb/vivado/MultiCycle/ALU_Control/ALU_Control.runs/impl_1/ALU_Control.vdi
+# Journal file       : /media/usb/vivado/MultiCycle/ALU_Control/ALU_Control.runs/impl_1/vivado.jou
+# Running On         : LOA-AsusVivoBook
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 22.04.5 LTS
+# Processor Detail   : AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+# CPU Frequency      : 2452.506 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 10369 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 12517 MB
+# Available Virtual  : 7178 MB
+#-----------------------------------------------------------
+source ALU_Control.tcl -notrace

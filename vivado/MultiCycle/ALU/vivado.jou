@@ -14,3 +14,4 @@
 start_gui
 open_project C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle/ALU/ALU.xpr
 update_compile_order -fileset sources_1
+save_project_as project_1 C:/Users/njimenezs/Documents/labor/analiziz/arquiejemploparanalisis/vivado/MultiCycle/ALU/ver_vivado2023_1/project_1 -force
